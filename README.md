@@ -1,7 +1,7 @@
 # todolist_master
 todo list
-
-Những câu lệnhh cơ bản 
+<h1 style="text-align: center">Những câu lệnhh cơ bản</h1>
+   
 ```javascript
 - Lệnh cấu hình tài khoản git trên máy tính cá nhân 
 - Git init : Tạo server local co project 
