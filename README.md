@@ -17,4 +17,6 @@ Những câu lệnh thường dùng :
 - Làm task : 
     + git add -A : Mỗi khi sửa đổi hoặc xoá file hoặc thêm file
     + git commit -m 'gj
+    
+- Làm lấy source từ server về : gitclone 
 ```
